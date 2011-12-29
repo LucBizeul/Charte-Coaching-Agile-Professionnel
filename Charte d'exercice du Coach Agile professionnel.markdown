@@ -36,18 +36,23 @@ professionnelles dans au moins 2 des branches que comportent ce métier, au trav
 
 
 Cette charte est conçue comme une classe abstraite qui doit se décliner en fonction des pays.
-Listes (non exhaustive des associations professionnelles Françaises) Coaching en France :
-http://www.ffcpro.org/
-http://www.coachfederation.fr/ 
-http://www.sfcoach.org/ 
-http://www.aecoaching.eu/
-Facilitation : 
-http://www.iaf-world.org/
-http://www.ica-usa.org/
+Listes (non exhaustive des associations professionnelles Françaises)
 
-Formation : Conseil : Tutorat :
+####Coaching en France :
+*http://www.ffcpro.org/
+*http://www.coachfederation.fr/ 
+*http://www.sfcoach.org/ 
+*http://www.aecoaching.eu/
+
+####Facilitation : 
+*http://www.iaf-world.org/
+*http://www.ica-usa.org/
+
+####Formation : 
+####Conseil : 
+####Tutorat :
 
 
 Initiateur / mainteneur : LucBizeul Principaux contributeurs: Céline Stauder, Xavier Galleri
-Licence : Creative Commons BY-NC-SA Pour tout commentaires / propositions : luc@bizeul.fr
+Licence : Creative Commons BY-NC-SA Pour tout commentaires / propositions : luc@bizeul.fr
 
