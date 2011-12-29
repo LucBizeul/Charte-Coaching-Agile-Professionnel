@@ -39,17 +39,19 @@ Cette charte est conçue comme une classe abstraite qui doit se décliner en fon
 Listes (non exhaustive des associations professionnelles Françaises)
 
 ####Coaching en France :
-*http://www.ffcpro.org/
-*http://www.coachfederation.fr/ 
-*http://www.sfcoach.org/ 
-*http://www.aecoaching.eu/
+* http://www.ffcpro.org/
+* http://www.coachfederation.fr/ 
+* http://www.sfcoach.org/ 
+* http://www.aecoaching.eu/
 
 ####Facilitation : 
-*http://www.iaf-world.org/
-*http://www.ica-usa.org/
+* http://www.iaf-world.org/
+* http://www.ica-usa.org/
 
 ####Formation : 
+
 ####Conseil : 
+
 ####Tutorat :
 
 
