@@ -55,6 +55,8 @@ Listes (non exhaustive des associations professionnelles Françaises)
 ####Tutorat :
 
 
-Initiateur / mainteneur : LucBizeul Principaux contributeurs: Céline Stauder, Xavier Galleri
-Licence : Creative Commons BY-NC-SA Pour tout commentaires / propositions : luc@bizeul.fr
+#####Initiateur / mainteneur : LucBizeul 
+#####Principaux contributeurs: Céline Stauder, Xavier Galleri
+#####Licence : Creative Commons BY-NC-SA
+#####Pour tout commentaires / propositions : luc@bizeul.fr
 
